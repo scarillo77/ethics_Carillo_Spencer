@@ -19,10 +19,10 @@ _Leaving academia to start a data science company: Looking back at our first yea
 - Most people believe the  common definition of a data scientist is " a programmer who know more statistics than average, and a statistician who knows more programming than average" (Ferguson) "Data scientists need to have a strong business sense, solid financial fundamentals, familiarity with marketing speak, and a general ambition to turn ideas that are interesting/fun into profitable ventures." (Ferguson) By doing this a data scientist can be "someone who both recognizes the opportunities in data and has the skills to capitalize on these opportunities end-to-end" (Ferguson)
 
 _The Startup Founder’s Guide to Analytics_
--From this article, I learned the step by step process on how to do analytics within a company, showing how to proceed in the business almost every step of the way
+- From this article, I learned the step by step process on how to do analytics within a company, showing how to proceed in the business almost every step of the way
 
 _The Hidden Biases in Big Data_
--In this article, I learned that that though big data can work, it is still biased and can cause errors.
+- In this article, I learned that that though big data can work, it is still biased and can cause errors.
 
 _How big data is unfair_
 -From what I take in this article, though machine learning can help create decisions based on data, "machine learning is not, by default, fair or just in any meaningful way." (Hardt)
@@ -31,7 +31,7 @@ _The Facebook Files, Part 1: The Whitelist_
 - From this podcast, I learned that there are those on Facebook who are on the whitelist, that is those who are of higher status in society that do not get punished for posting questionable and at times controversial topics on Facebook. This shows that Facebook needs to change its ethics to make sure everyone gets equal punishment for disobeying the rules.
 
 _The Facebook Files, Part 2: 'We Make Body Image Issues Worse'_
--With this podcast, I found that though there are many pages you can follow on Instagram that might be beneficial, there are those that can cause harm. It is important that those who post their content should obey the ethic standards that everyone matters in the grand equation.
+- With this podcast, I found that though there are many pages you can follow on Instagram that might be beneficial, there are those that can cause harm. It is important that those who post their content should obey the ethic standards that everyone matters in the grand equation.
 
 _The future history of Data Engineering_
 - This article expains that one needs to be a "purple data generalist:generalists who can navigate both the business context and the modern data stack."(Matt) There are also two types of Data Engineers: Software Engineers and Solutions Oriented Engineers
@@ -40,7 +40,7 @@ _Data science job-seeking advice to my younger self_
 - This article really helped me get great advice on what I can do, like how "much of a successful job search depends not only on how urgently you need a new job, but also on how much mental and emotional stamina you have." (Wheeler). I also learned to only give effort for a job if it is worth pursuing. Finally, if the work environment is toxic and hostile, then it would be best to leave.
 
 _Big Data and the Underground Railroad_
--This article talks about how important it is to establish privacy regarding data, and to not let the governments take it, as they will abuse this power. An example of this was used for the Underground Railroad, because if the slaves were listed as data and the government noticed some were missing, then there would be no escaped slaves to begin with.
+- This article talks about how important it is to establish privacy regarding data, and to not let the governments take it, as they will abuse this power. An example of this was used for the Underground Railroad, because if the slaves were listed as data and the government noticed some were missing, then there would be no escaped slaves to begin with.
 
 _Physiognomy’s New Clothes_
 - This article talks about the use of machine learning to understand the various uses of Physiognomy, which understands a person's inner character based on the outward appearance.
